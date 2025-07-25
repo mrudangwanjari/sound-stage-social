@@ -11,12 +11,12 @@
     --foreground: 0 0% 98%;
     
     /* Music-inspired palette */
-    --primary: 280 85% 60%;
+    --primary: 25 85% 60%;
     --primary-foreground: 0 0% 98%;
-    --primary-glow: 285 85% 70%;
+    --primary-glow: 30 85% 70%;
     
     /* Social accent colors */
-    --secondary: 320 70% 55%;
+    --secondary: 15 80% 55%;
     --secondary-foreground: 0 0% 98%;
     
     /* Performance status colors */
@@ -31,28 +31,28 @@
     --muted: 230 15% 12%;
     --muted-foreground: 0 0% 65%;
     
-    --accent: 280 85% 60%;
+    --accent: 25 85% 60%;
     --accent-foreground: 0 0% 98%;
     
     /* Interactive elements */
     --border: 230 15% 15%;
     --input: 230 15% 12%;
-    --ring: 280 85% 60%;
+    --ring: 25 85% 60%;
     
     /* Gradients for musical effects */
-    --gradient-primary: linear-gradient(135deg, hsl(280 85% 60%), hsl(320 70% 55%));
-    --gradient-performance: linear-gradient(45deg, hsl(280 85% 60%), hsl(200 85% 60%), hsl(150 80% 50%));
-    --gradient-social: linear-gradient(135deg, hsl(320 70% 55%), hsl(280 85% 60%));
+    --gradient-primary: linear-gradient(135deg, hsl(25 85% 60%), hsl(15 80% 55%));
+    --gradient-performance: linear-gradient(45deg, hsl(25 85% 60%), hsl(35 85% 60%), hsl(150 80% 50%));
+    --gradient-social: linear-gradient(135deg, hsl(15 80% 55%), hsl(25 85% 60%));
     
     /* Glow effects for audio visualization */
-    --glow-primary: 0 0 40px hsl(280 85% 60% / 0.5);
-    --glow-performance: 0 0 60px hsl(280 85% 60% / 0.3);
-    --glow-social: 0 0 30px hsl(320 70% 55% / 0.4);
+    --glow-primary: 0 0 40px hsl(25 85% 60% / 0.5);
+    --glow-performance: 0 0 60px hsl(25 85% 60% / 0.3);
+    --glow-social: 0 0 30px hsl(15 80% 55% / 0.4);
     
     /* Audio wave animations */
-    --wave-primary: hsl(280 85% 60%);
-    --wave-secondary: hsl(320 70% 55%);
-    --wave-tertiary: hsl(200 85% 60%);
+    --wave-primary: hsl(25 85% 60%);
+    --wave-secondary: hsl(15 80% 55%);
+    --wave-tertiary: hsl(35 85% 60%);
     
     /* Smooth transitions for audio feedback */
     --transition-audio: all 0.2s cubic-bezier(0.4, 0, 0.2, 1);
