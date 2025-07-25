@@ -1,4 +1,4 @@
-# Welcome to your Lovable project
+# Welcome to project
 
 ## Project info
 
@@ -7,8 +7,6 @@
 ## How can I edit this code?
 
 There are several ways of editing your application.
-
-**Use Lovable**
 
 Simply visit the [Lovable Project](https://lovable.dev/projects/86fc1e2d-220f-492a-88b8-d663ab93a0ca) and start prompting.
 
